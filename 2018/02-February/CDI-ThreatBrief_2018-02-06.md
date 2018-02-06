@@ -10,6 +10,8 @@
 [Digital Transformation Starts With People Accepting Change](http://feedproxy.google.com/~r/PaloAltoNetworks/~3/sVAjtNE9l5w/)
  
 ##### Naked Security - Sophos
+[Uber and Waymo clash in court over driverless technology](http://feedproxy.google.com/~r/nakedsecurity/~3/1j15nokxFVA/)
+ 
 [Firefox 59’s privacy mode plugs leaky referrers](http://feedproxy.google.com/~r/nakedsecurity/~3/hdXIxpVscf4/)
  
 [Early Google, Facebook employees band together to tame tech addiction](http://feedproxy.google.com/~r/nakedsecurity/~3/OXHMkIAsQos/)
@@ -25,6 +27,10 @@
 [Grammarly user? Patch now to stop crooks stealing all your data…](http://feedproxy.google.com/~r/nakedsecurity/~3/r0hF2KeYwpw/)
  
 ##### SecurityWeek RSS Feed
+[Adobe Patches Flash Zero-Day Exploited by North Korean Hackers](http://feedproxy.google.com/~r/Securityweek/~3/DJL1NCDUGeY/adobe-patches-flash-zero-day-exploited-north-korean-hackers)
+ 
+[One Computer Can Knock Almost Any WordPress Site Offline](http://feedproxy.google.com/~r/Securityweek/~3/XuQ22XwU4J8/one-computer-can-knock-almost-any-wordpress-site-offline)
+ 
 [Windows 10 Ransomware Protection Easily Bypassed, Researcher Says](http://feedproxy.google.com/~r/Securityweek/~3/NI_KiTvFCaw/windows-10-ransomware-protection-easily-bypassed-researcher-says)
  
 [Cisco, Apple Launch Cyber Risk Offering With Insurance Giant Allianz](http://feedproxy.google.com/~r/Securityweek/~3/Cqg_-KTde_s/cisco-apple-launch-cyber-risk-offering-insurance-giant-allianz)
